@@ -11,4 +11,6 @@ Old Friends Computer Rescue is an organization dedicated to the restoration and 
 * iPhone 4 (moving in)
 * Nexus 5 (moving in)
 
+Please take a look at our residents' [posts about their hobbies and activities]({{ "/posts" | relative_url}}). They love to share what they're up to!
+
 We're always happy to take on new residents! If your old computer needs a new home, please tell them about Old Friends!
