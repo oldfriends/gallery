@@ -4,7 +4,7 @@ title: Old Friends Computer Rescue
 permalink: /
 ---
 
-Old Friends Computer Rescue is an organization dedicated to the restoration and care of older, unused computers. We keep our computers healthy and occupied, letting them fully enjoy their hobbies in a peaceful, safe environment.​Our current residents are:
+Old Friends Computer Rescue is an organization dedicated to the restoration and care of older, unused computers. We keep our computers healthy and occupied, letting them fully enjoy their hobbies in a peaceful, safe environment.​ Our current residents are:
 
 * NeXTstation (moving in)
 * Raspberry Pi 1
